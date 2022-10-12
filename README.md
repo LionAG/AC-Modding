@@ -16,7 +16,3 @@ This mod increases the field of view.
 
 ##### ACS_CenteredStealthCamera:
 This mod keeps the camera centered while in stealth mode.
-
-##### ACS_KeepHoodOn
-This mod keeps the hood on in free roam. 
-
